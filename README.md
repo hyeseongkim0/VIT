@@ -42,4 +42,4 @@
 
 #### Source Sentence의 end token은 target sentence의 start token이 된다.
 
-<img src="https://github.com/hyeseongkim0/VIT/blob/main/images/masked_attention.PNG" width="100%">
+<img src="https://github.com/hyeseongkim0/VIT/blob/main/images/start_end.PNG" width="100%">
