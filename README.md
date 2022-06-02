@@ -12,7 +12,7 @@
 
 <img src="https://github.com/hyeseongkim0/VIT/blob/main/images/Multiattention.PNG" width="100%">
 
-### Mutli-Head Attention Layer를 통해 나온 최종 output
+### Multi-Head Attention Layer를 통해 나온 최종 output
 
 <img src="https://github.com/hyeseongkim0/VIT/blob/main/images/Final output of a multihead attention layer.PNG" width="100%">
 
