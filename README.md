@@ -30,4 +30,4 @@
 
 #### Decoder에서 start token으로 입력을 처음으로 준 뒤부터는 Decoder의 output을 Decoder의 input으로 준다. Decoder에서 새로 나온 output들을 계속해서 같이 넣어준다.
 
-<img src="https://github.com/hyeseongkim0/VIT/blob/main/images/Final_Linear_Layer_meaning.PNG" width="100%">
+<img src="https://github.com/hyeseongkim0/VIT/blob/main/images/Decoder_Process.PNG" width="100%">
