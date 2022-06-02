@@ -24,6 +24,6 @@
 
 <img src="https://github.com/hyeseongkim0/VIT/blob/main/images/Decoder_part.PNG" width="100%">
 
-#### Final Linear Layer meaning --> Classification
+### Final Linear Layer meaning --> Classification
 
 <img src="https://github.com/hyeseongkim0/VIT/blob/main/images/Final_Linear_Layer_meaning.PNG" width="100%">
