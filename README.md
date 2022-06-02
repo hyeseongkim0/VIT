@@ -2,4 +2,4 @@
 
 ### Query, Key, Value
 
-<img src="https://github.com/hyeseongkim0/VIT/blob/main/images/Query,Key,Value.JPG" width="40%">
+<img src="https://github.com/hyeseongkim0/VIT/blob/main/images/Query,Key,Value.PNG" width="40%">
