@@ -20,3 +20,6 @@
 
 <img src="https://github.com/hyeseongkim0/VIT/blob/main/images/residual_connection.PNG" width="100%">
 
+#### Decoder Part에서는 Encoder에서 만들어진 Query, Key Matrices를 입력으로 넣고, start token으로부터 시작하여 나온 Value Matrix를 Multi-Head Attention의 입력으로 넣는다.
+
+<img src="https://github.com/hyeseongkim0/VIT/blob/main/images/Decoder_part.PNG" width="100%">
