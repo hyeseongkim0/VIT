@@ -4,5 +4,5 @@
 
 <img src="https://github.com/hyeseongkim0/VIT/blob/main/images/Query,Key,Value.PNG" width="80%">
 
-<img src="https://github.com/hyeseongkim0/VIT/blob/main/images/multiattention.PNG" width="80%">
+<img src="https://github.com/hyeseongkim0/VIT/blob/main/images/Multiattention.PNG" width="100%">
 
