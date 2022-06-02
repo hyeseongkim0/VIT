@@ -35,3 +35,7 @@
 #### Decoder과정은 special한 end token이 나올때까지 반복된다.
 
 <img src="https://github.com/hyeseongkim0/VIT/blob/main/images/end_token.PNG" width="100%">
+
+#### Masked-Multi Head Attention에서는 앞의 predict한 am의 앞의 단어는 고려하고 뒤의 단어는 고려하지 않도록 마스킹을 할 수 있다.
+
+<img src="https://github.com/hyeseongkim0/VIT/blob/main/images/masked_attention.PNG" width="100%">
