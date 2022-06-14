@@ -51,3 +51,5 @@
 # Let's roll with VIT
 
 [Implementing Vision Transformer (ViT) in PyTorch](https://towardsdatascience.com/implementing-visualttransformer-in-pytorch-184f9f16f632)
+
+[The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
