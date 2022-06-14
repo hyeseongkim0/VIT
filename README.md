@@ -53,3 +53,7 @@
 [Implementing Vision Transformer (ViT) in PyTorch](https://towardsdatascience.com/implementing-visualttransformer-in-pytorch-184f9f16f632)
 
 [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
+
+### Embedding size --> 몇 자릿수로 알파벳(단어) 표현했는가?
+
+<img src="https://github.com/sandokim/VIT/blob/main/images/embedding_size.JPG" width="100%">
