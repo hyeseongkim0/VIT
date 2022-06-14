@@ -54,6 +54,6 @@
 
 [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 
-### Embedding size --> 몇 자릿수로 알파벳(단어) 표현했는가?
+### Embedding size --> 몇 자릿수로 알파벳(단어)을 표현했는가?
 
 <img src="https://github.com/sandokim/VIT/blob/main/images/embedding_size.JPG" width="100%">
