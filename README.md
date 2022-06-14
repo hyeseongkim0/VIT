@@ -68,4 +68,4 @@
 
 ### In Vit only the Encoder part of the original transformer is used. Easily, the encoder is L blocks of TranformerBlock.
 
-<img src="https://github.com/sandokim/VIT/blob/main/images/Vit.JPG" width="100%">
+<img src="https://github.com/sandokim/VIT/blob/main/images/Vit.JPG" width="30%">
