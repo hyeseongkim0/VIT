@@ -61,3 +61,7 @@
 ### Embedding size --> 몇 자릿수로 알파벳(단어)을 표현했는가?
 
 <img src="https://github.com/sandokim/VIT/blob/main/images/embedding_size.JPG" width="100%">
+
+### token score 계산 및 prediction
+
+<img src="https://github.com/sandokim/VIT/blob/main/images/token_score.JPG" width="100%">
