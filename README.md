@@ -47,3 +47,7 @@
 #### Masked Multi-Head Attention에서 Target Sentence의 end token이 나올때까지 model은 input text부터 target의 모든 target tokens에 attention한다.
 
 <img src="https://github.com/hyeseongkim0/VIT/blob/main/images/target_end_token.PNG" width="100%">
+
+# Let's roll with VIT
+
+[Implementing Vision Transformer (ViT) in PyTorch](https://towardsdatascience.com/implementing-visualttransformer-in-pytorch-184f9f16f632)
