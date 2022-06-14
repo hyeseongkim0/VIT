@@ -54,6 +54,10 @@
 
 [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 
+### Tokenization, Token id --> 문장을 쪼개고 쪼갠 알파벳에 Token id(숫자)를 부여한다.
+
+<img src="https://github.com/sandokim/VIT/blob/main/images/tokenization.JPG" width="100%">
+
 ### Embedding size --> 몇 자릿수로 알파벳(단어)을 표현했는가?
 
 <img src="https://github.com/sandokim/VIT/blob/main/images/embedding_size.JPG" width="100%">
