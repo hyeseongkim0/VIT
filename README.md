@@ -65,3 +65,7 @@
 ### token score 계산 및 prediction
 
 <img src="https://github.com/sandokim/VIT/blob/main/images/token_score.JPG" width="100%">
+
+### In Vit only the Encoder part of the original transformer is used. Easily, the encoder is L blocks of TranformerBlock.
+
+<img src="https://github.com/sandokim/VIT/blob/main/images/Vit.JPG" width="100%">
