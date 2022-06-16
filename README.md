@@ -1,5 +1,12 @@
 # [The Illustrated Transformer](https://nlpinkorean.github.io/illustrated-transformer/)
 
+### Word embedding -> The Big Idea of Word Embedding is to turn text into numbers.
+
+So a natural language modelling technique like Word Embedding is used to map words or phrases from a vocabulary to a corresponding vector of real numbers. As well as being amenable to processing by learning algorithms, this vector representation has two important and advantageous properties:
+
+* Dimensionality Reduction — it is a more efficient representation
+* Contextual Similarity — it is a more expressive representation
+
 # [What is Vision Transfomer?](https://www.youtube.com/watch?v=mMa2PmYJlCo&t=11s)
 
 ### Transformer, Position Embeddings
