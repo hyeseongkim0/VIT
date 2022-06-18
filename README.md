@@ -81,4 +81,6 @@ So a natural language modelling technique like Word Embedding is used to map wor
 
 # [Deit: Training data-efficient image transformers & distillation through attention](https://arxiv.org/abs/2012.12877)
 
+### Inductive Biases in Convolution lyaer & Dense Layer, Fewer Inductive Biases in Attention Layer but it requires more data than Conv layer or Dense Layer
+
 <img src="https://github.com/sandokim/VIT/blob/main/images/Inductive biases & Attention.jpg" width="50%">
