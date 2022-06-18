@@ -81,4 +81,4 @@ So a natural language modelling technique like Word Embedding is used to map wor
 
 # [Deit: Training data-efficient image transformers & distillation through attention](https://arxiv.org/abs/2012.12877)
 
-<img src="https://github.com/sandokim/VIT/blob/main/images/Inductive biases & Attention.PNG" width="50%">
+<img src="https://github.com/sandokim/VIT/blob/main/images/Inductive biases & Attention.jpg" width="50%">
